@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/*.sqlite3*
+.streamlit/secrets.toml
+artifacts/
+*.log
+node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
